@@ -3,14 +3,14 @@
 A fun and practical Arduino project—a moisture-detecting plant buddy that says 'Sungyoung's Plant1 needs water💧' and lights up💡 when it’s thirsty. When you give the plant water🚿, it plays happy sounds (music)🎵! 
 Perfect for learning embedded systems, sensors, and hardware-software integration.
 
-## 💡 Features
+## Features
 - Capacitive moisture sensor input
 - Moisture level mapped to LED brightness
 - DFMini MP3 module with custom audio playback
-- Custom 3D printed or laser-cut housing
-- Expandable to support WiFi, Discord alerts, or real-time clock triggers
+- Custom 3D printed and laser-cut housing
 
-## 🧰 Tech Stack
+
+## Tech Stack
 - Arduino Nano(Microcontroller) <br> <img src="https://github.com/user-attachments/assets/d59336ca-3c30-45ee-92ec-0e444c47e971" width="100">
 
 - Capacitive Moisture Sensor <br> <img src="https://github.com/user-attachments/assets/48d6691e-e47d-44f9-bb34-56acce80e356" width="100">
@@ -25,20 +25,20 @@ Perfect for learning embedded systems, sensors, and hardware-software integratio
 - MicroSD Card for sound storage
 - Hardware Design: 	3D printed and laser-cut box 
 
-## 📸 Demo (Insert Video or GIF)
+## Demo (Insert Video or GIF)
 ![Demo](link-to-demo.gif)
 
-## 🛠️ How to Use
+## How to Use
 1. Connect components as shown in schematic (coming soon)
 2. Upload the code from `/code` folder to Arduino using Arduino IDE
 3. Format SD card with `/mp3/0001.mp3`, `0002.mp3`, `0003.mp3`
 4. Insert into MP3 module and power the board
 5. Enjoy your screaming plant!
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Analog sensor reading and interpretation
 - Breadboarding + voltage divider setup
 - Serial communication (RX/TX) with external modules
 - Modular, scalable hardware design
 
-## 📦 Folder Structure
+## Folder Structure

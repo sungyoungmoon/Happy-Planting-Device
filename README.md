@@ -10,7 +10,8 @@ A fun and practical Arduino project—a moisture-detecting plant buddy that make
 - Expandable to support WiFi, Discord alerts, or real-time clock triggers
 
 ## 🧰 Tech Stack
-- Arduino Nano(Microcontroller)
+- Arduino Nano(Microcontroller) <br> <img src="https://github.com/user-attachments/assets/d59336ca-3c30-45ee-92ec-0e444c47e971" width="80">
+
 - Capacitive Moisture Sensor
 - DFPlayer Mini MP3 <br> <img src="https://github.com/user-attachments/assets/4b49f59b-2cb0-4a6b-b565-cb91c0baf0dd" width="80">
 

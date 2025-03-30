@@ -27,10 +27,8 @@ Perfect for learning embedded systems, sensors, and hardware-software integratio
 
 ## Demo (Video)
 
-### Final Product
 [![Screaming Plant Demo 1](https://img.youtube.com/vi/l7jk6fIN6yw/0.jpg)](https://www.youtube.com/watch?v=l7jk6fIN6yw)
 
-### Test
 [![Screaming Plant Demo 2](https://img.youtube.com/vi/NJWNvNU74-s/0.jpg)](https://www.youtube.com/watch?v=NJWNvNU74-s)
 
 
@@ -40,7 +38,7 @@ Perfect for learning embedded systems, sensors, and hardware-software integratio
 2. Upload the code from `/code` folder to Arduino using Arduino IDE
 3. Format SD card with `/mp3/0001.mp3`, `0002.mp3`, `0003.mp3`
 4. Insert into MP3 module and power the board
-5. Enjoy your screaming plant!
+5. Enjoy your planting!
 
 ## Learning Outcomes
 - Analog sensor reading and interpretation

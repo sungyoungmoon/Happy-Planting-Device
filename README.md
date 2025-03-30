@@ -3,23 +3,30 @@
 A fun and practical Arduino project—a moisture-detecting plant buddy that says ' Sungyoung's Plant1 needs water!💧' and lights up💡 when it’s thirsty. When you give the plant water🚿, it plays happy sounds (music)🎵! 
 Perfect for learning embedded systems, sensors, and hardware-software integration.
 
+
+## Overview
+The Happy Planting device is equipped with a moisture sensor and a customizable MP3 player, allowing your household plants to play a unique sound whenever they need water. This playful feature helps users track soil moisture levels and water their plants more reliably and intuitively.
+
+## Integration
+This project was developed using Arduino C and C++ for embedded systems. The codebase primarily utilizes C++, enhanced by Arduino-specific methods and libraries for handling sensors, serial communication, and audio playback. The combination of hardware and software showcases hands-on hardware-software integration and real-time sensor interaction.
+
+- Programming Language: C/C++ 
+- Arduino IDE
+- Libraries:	DFRobotDFPlayerMini, SoftwareSerial
+
 ## Features
 - Capacitive moisture sensor input
 - Moisture level mapped to LED brightness
 - DFMini MP3 module with custom audio playback
 - Custom 3D printed and laser-cut housing
 
-
-## Tech Stack
+## Electrical Components
 - Arduino Nano(Microcontroller) <br> <img src="https://github.com/user-attachments/assets/d59336ca-3c30-45ee-92ec-0e444c47e971" width="100">
 
 - Capacitive Moisture Sensor <br> <img src="https://github.com/user-attachments/assets/48d6691e-e47d-44f9-bb34-56acce80e356" width="100">
 
 - DFPlayer Mini MP3 <br> <img src="https://github.com/user-attachments/assets/4b49f59b-2cb0-4a6b-b565-cb91c0baf0dd" width="80">
 
-- Programming Language: C/C++ 
-- Arduino IDE
-- Libraries:	DFRobotDFPlayerMini, SoftwareSerial
 - Half Breadboard, Mini Breadboard, 3 Pin Switch, Button, Resistors, LED, 3W Speaker, 4xAAA Battery pack with AAA Batteries
 - Wires, USB A to USB B cable, Lever Wire Connectors
 - MicroSD Card for sound storage

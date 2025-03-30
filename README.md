@@ -13,7 +13,8 @@ A fun and practical Arduino project—a moisture-detecting plant buddy that make
 - Arduino Nano(Microcontroller)
 - Capacitive Moisture Sensor
 - DFPlayer Mini MP3
-  ![image](https://github.com/user-attachments/assets/4b49f59b-2cb0-4a6b-b565-cb91c0baf0dd)
+  <img src="https://github.com/user-attachments/assets/4b49f59b-2cb0-4a6b-b565-cb91c0baf0dd" width="300">
+
 - Arduino IDE (C/C++)
 - Breadboarding & wiring
 - MicroSD Card for sound storage

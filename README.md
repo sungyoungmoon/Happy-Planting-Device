@@ -26,10 +26,12 @@ Perfect for learning embedded systems, sensors, and hardware-software integratio
 - Hardware Design: 	3D printed and laser-cut box 
 
 ## Demo (Insert Video or GIF)
-![Demo](link-to-demo.gif)
+[![Screaming Plant Demo](https://img.youtube.com/vi/l7jk6fIN6yw/0.jpg)](https://www.youtube.com/watch?v=l7jk6fIN6yw)
+
 
 ## How to Use
-1. Connect components as shown in schematic (coming soon)
+1. Connect components as shown in schematic <br> <img src="https://github.com/user-attachments/assets/e23b125a-7a1f-48f1-9064-331aafa0abf9" width="100">
+
 2. Upload the code from `/code` folder to Arduino using Arduino IDE
 3. Format SD card with `/mp3/0001.mp3`, `0002.mp3`, `0003.mp3`
 4. Insert into MP3 module and power the board

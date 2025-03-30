@@ -52,3 +52,18 @@ Perfect for learning embedded systems, sensors, and hardware-software integratio
 - Modular, scalable hardware design
 
 ## Folder Structure
+
+screaming-plant/
+├── images/
+│   ├── breadboard_setup.jpg
+│   └── final_plant_setup.jpg
+├── sounds/
+│   └── 0001.mp3, 0002.mp3, etc.
+├── code/
+│   ├── getting_moist.ino
+│   └── screaming_plant.ino
+├── casing_design/
+│   └── box_layout.dxf
+├── README.md
+└── LICENSE (MIT or Creative Commons)
+

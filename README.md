@@ -1,6 +1,7 @@
 # Happy Planting Device 🌱 
 
-A fun and practical Arduino project—a moisture-detecting plant buddy that makes noise(via MP3)🔊 and lights up💡 when it’s thirsty, drinking, or full. Perfect for learning embedded systems, sensors, and hardware-software integration.
+A fun and practical Arduino project—a moisture-detecting plant buddy that says 'Sungyoung's Plant1 needs water💧' and lights up💡 when it’s thirsty. When you give the plant water, it plays happy sounds (music)🎵! 
+Perfect for learning embedded systems, sensors, and hardware-software integration.
 
 ## 💡 Features
 - Capacitive moisture sensor input
@@ -10,14 +11,19 @@ A fun and practical Arduino project—a moisture-detecting plant buddy that make
 - Expandable to support WiFi, Discord alerts, or real-time clock triggers
 
 ## 🧰 Tech Stack
-- Arduino Nano(Microcontroller) <br> <img src="https://github.com/user-attachments/assets/d59336ca-3c30-45ee-92ec-0e444c47e971" width="80">
+- Arduino Nano(Microcontroller) <br> <img src="https://github.com/user-attachments/assets/d59336ca-3c30-45ee-92ec-0e444c47e971" width="100">
 
-- Capacitive Moisture Sensor
+- Capacitive Moisture Sensor <br> <img src="https://github.com/user-attachments/assets/48d6691e-e47d-44f9-bb34-56acce80e356" width="100">
+
 - DFPlayer Mini MP3 <br> <img src="https://github.com/user-attachments/assets/4b49f59b-2cb0-4a6b-b565-cb91c0baf0dd" width="80">
 
-- Arduino IDE (C/C++)
-- Breadboarding & wiring
+- Programming Language: C/C++ 
+- Arduino IDE
+- Libraries:	DFRobotDFPlayerMini, SoftwareSerial
+- Half Breadboard, Mini Breadboard, 3 Pin Switch, Button, Resistors, LED, 3W Speaker, 4xAAA Battery pack with AAA Batteries
+- Wires, USB A to USB B cable, Lever Wire Connectors
 - MicroSD Card for sound storage
+- Hardware Design: 	3D printed and laser-cut box 
 
 ## 📸 Demo (Insert Video or GIF)
 ![Demo](link-to-demo.gif)

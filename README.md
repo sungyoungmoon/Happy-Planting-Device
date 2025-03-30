@@ -33,7 +33,7 @@ Perfect for learning embedded systems, sensors, and hardware-software integratio
 
 
 ## Final Product (Photo)
-<br> <img src="https://github.com/user-attachments/assets/830d6402-3e91-4c7a-9c2e-d08e571ff65f" width="300">
+<br> <img src="https://github.com/user-attachments/assets/830d6402-3e91-4c7a-9c2e-d08e571ff65f" width="600">
 
 
 

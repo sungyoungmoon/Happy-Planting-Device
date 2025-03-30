@@ -1,6 +1,6 @@
 # Happy Planting Device 🌱 
 
-A fun and practical Arduino project—a moisture-detecting plant buddy that says 'Sungyoung's Plant1 needs water💧' and lights up💡 when it’s thirsty. When you give the plant water, it plays happy sounds (music)🎵! 
+A fun and practical Arduino project—a moisture-detecting plant buddy that says 'Sungyoung's Plant1 needs water💧' and lights up💡 when it’s thirsty. When you give the plant water🚿, it plays happy sounds (music)🎵! 
 Perfect for learning embedded systems, sensors, and hardware-software integration.
 
 ## 💡 Features
